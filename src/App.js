@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css'; // Import your CSS for styling
+import fashionMnistImage from './fashionmnist.png';
 
 function App() {
   return (
     <div className="App">
       <h1 className="title">Classifiers for the Fashion MNIST Datasets</h1>
-      <img src="/fashionmnist.png" alt="Fashion MNIST" className="image" />
+      <img src={fashionMnistImage} alt="Fashion MNIST" className="image" />
 
       <p className="description">
        This blog is a documentation and summary of the various models we tried to peform a classification task using the FashionMNIST dataset. We dive into why we
