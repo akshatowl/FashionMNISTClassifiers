@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/FashionMNISTClassifiers/static/css/main.89e5914d.css",
-    "main.js": "/FashionMNISTClassifiers/static/js/main.97b7d8b1.js",
+    "main.js": "/FashionMNISTClassifiers/static/js/main.61aaa969.js",
     "static/js/453.3483821c.chunk.js": "/FashionMNISTClassifiers/static/js/453.3483821c.chunk.js",
+    "static/media/fashionmnist.png": "/FashionMNISTClassifiers/static/media/fashionmnist.480fa9a9d1c60b0420d4.png",
     "index.html": "/FashionMNISTClassifiers/index.html",
     "main.89e5914d.css.map": "/FashionMNISTClassifiers/static/css/main.89e5914d.css.map",
-    "main.97b7d8b1.js.map": "/FashionMNISTClassifiers/static/js/main.97b7d8b1.js.map",
+    "main.61aaa969.js.map": "/FashionMNISTClassifiers/static/js/main.61aaa969.js.map",
     "453.3483821c.chunk.js.map": "/FashionMNISTClassifiers/static/js/453.3483821c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89e5914d.css",
-    "static/js/main.97b7d8b1.js"
+    "static/js/main.61aaa969.js"
   ]
 }
