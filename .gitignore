@@ -8,8 +8,16 @@
 # testing
 /coverage
 
-# production
 /build
+
+public/
+
+# Configuration files
+.env
+
+package-lock.json
+package.json
+
 
 # misc
 .DS_Store
