@@ -44,6 +44,15 @@ body {
   border: 5px solid #555;
   
 }
+.image-caption {
+  font-style: italic; /* Makes the text italic */
+  font-size: smaller;
+}
+
+.image-caption a {
+  color: inherit; /* Inherits the color from the parent element */
+  text-decoration: none; /* Removes the underline */
+}
 
 .footer {
   background-color: transparent;
@@ -59,12 +68,15 @@ body {
   margin: 0;
 }
 
-.deep-learning-section , .decision-tree-section {
+.section {
   background-color: transparent; /* Semi-transparent white background */
-
   border-radius: 8px;
   margin: 40px auto;
   backdrop-filter: blur(10px); /* Optional: Apply blur effect to background */
+  font-size: 1 rem;
+  color: #555;
+  max-width: 1100px;
+  margin: 0 auto;
 
 }
 
