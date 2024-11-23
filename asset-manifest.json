@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/FashionMNISTClassifiers/static/css/main.d55b75b3.css",
-    "main.js": "/FashionMNISTClassifiers/static/js/main.cc7c8916.js",
+    "main.css": "/FashionMNISTClassifiers/static/css/main.82e617ff.css",
+    "main.js": "/FashionMNISTClassifiers/static/js/main.a4f0a51f.js",
     "static/js/453.3483821c.chunk.js": "/FashionMNISTClassifiers/static/js/453.3483821c.chunk.js",
     "static/media/fashion.png": "/FashionMNISTClassifiers/static/media/fashion.cc8d06660c0ebdace409.png",
     "static/media/knn.png": "/FashionMNISTClassifiers/static/media/knn.79715b5ad1f1e02a27fa.png",
     "static/media/method.png": "/FashionMNISTClassifiers/static/media/method.c2d11521d8f84825ac77.png",
     "static/media/svm.png": "/FashionMNISTClassifiers/static/media/svm.2fa51887942fafdd3d97.png",
     "static/media/bp.png": "/FashionMNISTClassifiers/static/media/bp.304259e47c725e513278.png",
+    "static/media/train_val_accuracy.png": "/FashionMNISTClassifiers/static/media/train_val_accuracy.8c8a0f306d94c7fb9a2e.png",
     "static/media/lr.png": "/FashionMNISTClassifiers/static/media/lr.eb89f6d466fc4f5923ea.png",
+    "static/media/cnn_architecture.png": "/FashionMNISTClassifiers/static/media/cnn_architecture.60a73a8f0efa200b7134.png",
+    "static/media/train_val_loss.png": "/FashionMNISTClassifiers/static/media/train_val_loss.2b7d2b2c4de99ef03e4a.png",
     "static/media/cnnarch.png": "/FashionMNISTClassifiers/static/media/cnnarch.8f4d90aa88b7448522ed.png",
     "static/media/result.png": "/FashionMNISTClassifiers/static/media/result.d39ddfbe8d0788e98611.png",
     "static/media/entropy.png": "/FashionMNISTClassifiers/static/media/entropy.9ae2ab9700edc0e2e5b1.png",
     "static/media/gini.png": "/FashionMNISTClassifiers/static/media/gini.d446aa4c7371d9c49b6a.png",
     "index.html": "/FashionMNISTClassifiers/index.html",
-    "main.d55b75b3.css.map": "/FashionMNISTClassifiers/static/css/main.d55b75b3.css.map",
-    "main.cc7c8916.js.map": "/FashionMNISTClassifiers/static/js/main.cc7c8916.js.map",
+    "main.82e617ff.css.map": "/FashionMNISTClassifiers/static/css/main.82e617ff.css.map",
+    "main.a4f0a51f.js.map": "/FashionMNISTClassifiers/static/js/main.a4f0a51f.js.map",
     "453.3483821c.chunk.js.map": "/FashionMNISTClassifiers/static/js/453.3483821c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d55b75b3.css",
-    "static/js/main.cc7c8916.js"
+    "static/css/main.82e617ff.css",
+    "static/js/main.a4f0a51f.js"
   ]
 }
