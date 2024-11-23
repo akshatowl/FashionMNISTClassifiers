@@ -92,7 +92,7 @@ Using this two-pronged approach let us compare traditional methods with modern d
 
       {/* New Section: Linear regression */}
       <section className="section">
-        <h2 className="section-title">Linear Regression Model</h2>
+        <h2 className="section-title">Logistic Regression Model</h2>
         <p className="section-text">
         Logistic regression was chosen for its simplicity, efficiency, and ability to handle multinomial classification, suitable for the dataset's 10 classes. The lbfgs solver effectively managed the 784-pixel input space and loss function, while the regularization parameter (C=1.0) balanced model complexity and generalization to prevent overfitting. Setting max\_iter = 1000 ensured convergence without excessive computation, and random\_state = 42 guaranteed reproducibility. This configuration efficiently linked pixel intensity values to clothing categories while preserving computational efficiency and interpretability.
         </p>
