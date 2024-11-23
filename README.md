@@ -1,6 +1,9 @@
 # Fashion MNIST Classification
 
+
+
 This repository contains a project focused on classifying images from the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist). The project evaluates multiple machine learning models using metrics like accuracy, precision, recall, and F1-score.
+You can view the detailed results and visualizations on the [project website](https://akshatowl.github.io/FashionMNISTClassifiers/).
 
 ## Table of Contents
 - [Overview](#overview)
