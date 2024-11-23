@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/FashionMNISTClassifiers/static/css/main.8753b9b7.css",
-    "main.js": "/FashionMNISTClassifiers/static/js/main.3d00a58d.js",
+    "main.css": "/FashionMNISTClassifiers/static/css/main.0d5ded66.css",
+    "main.js": "/FashionMNISTClassifiers/static/js/main.f48ceb7e.js",
     "static/js/453.3483821c.chunk.js": "/FashionMNISTClassifiers/static/js/453.3483821c.chunk.js",
     "static/media/fashion.png": "/FashionMNISTClassifiers/static/media/fashion.cc8d06660c0ebdace409.png",
     "static/media/fashionmnist.png": "/FashionMNISTClassifiers/static/media/fashionmnist.480fa9a9d1c60b0420d4.png",
+    "static/media/method.png": "/FashionMNISTClassifiers/static/media/method.c2d11521d8f84825ac77.png",
+    "static/media/svm.png": "/FashionMNISTClassifiers/static/media/svm.2fa51887942fafdd3d97.png",
+    "static/media/bp.png": "/FashionMNISTClassifiers/static/media/bp.304259e47c725e513278.png",
+    "static/media/lr.png": "/FashionMNISTClassifiers/static/media/lr.eb89f6d466fc4f5923ea.png",
+    "static/media/cnnarch.png": "/FashionMNISTClassifiers/static/media/cnnarch.8f4d90aa88b7448522ed.png",
+    "static/media/results.png": "/FashionMNISTClassifiers/static/media/results.fe5743fb17f8f15ee7ed.png",
     "static/media/entropy.png": "/FashionMNISTClassifiers/static/media/entropy.9ae2ab9700edc0e2e5b1.png",
     "static/media/gini.png": "/FashionMNISTClassifiers/static/media/gini.d446aa4c7371d9c49b6a.png",
     "index.html": "/FashionMNISTClassifiers/index.html",
-    "main.8753b9b7.css.map": "/FashionMNISTClassifiers/static/css/main.8753b9b7.css.map",
-    "main.3d00a58d.js.map": "/FashionMNISTClassifiers/static/js/main.3d00a58d.js.map",
+    "main.0d5ded66.css.map": "/FashionMNISTClassifiers/static/css/main.0d5ded66.css.map",
+    "main.f48ceb7e.js.map": "/FashionMNISTClassifiers/static/js/main.f48ceb7e.js.map",
     "453.3483821c.chunk.js.map": "/FashionMNISTClassifiers/static/js/453.3483821c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8753b9b7.css",
-    "static/js/main.3d00a58d.js"
+    "static/css/main.0d5ded66.css",
+    "static/js/main.f48ceb7e.js"
   ]
 }
