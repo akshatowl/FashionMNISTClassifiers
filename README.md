@@ -60,3 +60,14 @@ The models are evaluated using:
    git clone https://github.com/yourusername/fashion-mnist-classification.git
    cd fashion-mnist-classification
 
+## Results
+Below is a summary of the evaluation metrics for each model (scaled data analysis):
+
+| Model             | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
+|-------------------|--------------|---------------|------------|--------------|
+| KNN               | 85.35        | 85.66         | 85.35      | 85.36        |
+| Logistic Regression | 83.61      | 83.42         | 83.61      | 83.50        |
+| Decision Tree     | 80.26        | 80.66         | 80.26      | 80.31        |
+| Linear SVM        | 84.00        | 83.60         | 83.50      | 83.50        |
+| RBF SVM           | 88.00        | 88.10         | 88.20      | 88.20        |
+| CNN               | 91.98        | 91.99         | 91.98      | 91.96        |
