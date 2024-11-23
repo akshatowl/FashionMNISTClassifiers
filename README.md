@@ -55,7 +55,7 @@ The models are evaluated using:
   - `pandas`
   - `matplotlib`
   - `scikit-learn`
-  - `tensorflow` or `pytorch` (for CNNs)
+  - `pytorch` (for CNNs)
 
 ### Installation
 1. Clone the repository:
