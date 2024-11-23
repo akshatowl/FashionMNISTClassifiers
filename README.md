@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Fashion MNIST Classification
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains a project focused on classifying images from the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist). The project evaluates multiple machine learning models using metrics like accuracy, precision, recall, and F1-score.
 
-## Available Scripts
+## Table of Contents
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Models](#models)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Setup](#setup)
+- [Results](#results)
+- [Future Work](#future-work)
+- [License](#license)
 
-In the project directory, you can run:
+## Overview
+The goal of this project is to compare the performance of different classifiers on the Fashion MNIST dataset. The models include traditional algorithms like Logistic Regression and Decision Trees, as well as advanced techniques like Support Vector Machines (SVMs) and Convolutional Neural Networks (CNNs).
 
-### `npm start`
+## Dataset
+The Fashion MNIST dataset consists of 70,000 grayscale images of 28x28 pixels, categorized into 10 classes:
+1. T-shirt/top  
+2. Trouser  
+3. Pullover  
+4. Dress  
+5. Coat  
+6. Sandal  
+7. Shirt  
+8. Sneaker  
+9. Bag  
+10. Ankle boot  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The dataset is divided into 60,000 training samples and 10,000 test samples.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Models
+The following classifiers are implemented in this project:
+- **Logistic Regression**
+- **Decision Trees**
+- **Support Vector Machines (SVMs)**
+- **Convolutional Neural Networks (CNNs)**
 
-### `npm test`
+## Evaluation Metrics
+The models are evaluated using:
+- **Accuracy**: Overall correctness of the predictions.
+- **Precision**: Measure of true positive results divided by all positive predictions.
+- **Recall**: Measure of true positive results divided by all actual positives.
+- **F1-Score**: Harmonic mean of precision and recall.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Setup
+### Prerequisites
+- Python 3.8+
+- Required Python libraries:
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
+  - `scikit-learn`
+  - `tensorflow` or `pytorch` (for CNNs)
 
-### `npm run build`
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/fashion-mnist-classification.git
+   cd fashion-mnist-classification
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
