@@ -35,6 +35,7 @@ The dataset is divided into 60,000 training samples and 10,000 test samples.
 
 ## Models
 The following classifiers are implemented in this project:
+- **K-Nearest Neighbours(KNN)**
 - **Logistic Regression**
 - **Decision Trees**
 - **Support Vector Machines (SVMs)**
